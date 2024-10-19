@@ -13,7 +13,7 @@ This project demonstrates how to use **Neo4j** and **OSMnx** to locate pharmacie
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/pharmacy-locator.git
+   git clone https://github.com/safaeOulaja/Neo4jPharmacyFinder.git
    cd Neo4jPharmacyFinder
    ```
 
